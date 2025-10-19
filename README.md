@@ -1,6 +1,6 @@
-# 👋 Halo, Saya Virgi (Virgi6ix)  
+# 👋 Halo, Saya Virgi Alpiansyah  
 
-Saya seorang mahasiswa **Informatika** yang tertarik pada dunia **teknologi, pemrograman, dan pengembangan web**.  
+Saya seorang mahasiswa **Informatika** yang tertarik dengan dunia **teknologi, pemrograman, dan pengembangan web**.  
 Saya percaya setiap baris kode bisa membawa perubahan kecil menuju masa depan yang lebih baik.  
 
 ---
@@ -9,9 +9,17 @@ Saya percaya setiap baris kode bisa membawa perubahan kecil menuju masa depan ya
 
 | Bidang | Keterangan |
 |--------|-------------|
-| 💻 Web Development | Membangun tampilan web interaktif dengan **HTML**, **CSS**, dan **JavaScript**. |
-| ⚙️ Pemrograman | Membuat script sederhana menggunakan **Python** untuk otomatisasi dan logika. |
+| 💻 Web Development | Menguasai dasar **HTML**, **CSS**, dan **JavaScript** untuk membangun tampilan web sederhana. |
+| ⚙️ Pemrograman | Membuat script sederhana menggunakan **Python** untuk otomatisasi dan pembelajaran logika. |
 | 🎨 Desain Digital | Mendesain banner, thumbnail, dan media edukatif visual. |
+
+---
+
+## 🌱 Aktivitas & Minat  
+
+- 🔧 Sedang mempelajari **pengembangan web dan GitHub workflow**   
+- 🎨 Suka mendesain tampilan visual yang clean dan minimalis  
+- ☕ Kadang ngoding sambil denger musik chill  
 
 ---
 
@@ -25,34 +33,12 @@ Saya percaya setiap baris kode bisa membawa perubahan kecil menuju masa depan ya
 
 ---
 
-## 🚀 Proyek Unggulan  
-
-| Nama Proyek | Deskripsi Singkat | Teknologi |
-|--------------|------------------|------------|
-| **QuickSirah** | Konten video pendek bertema keislaman: ceramah, kisah Nabi, dan sejarah Islam. | Desain, Editing, Branding |
-| **Diphami** | Platform edukatif untuk memahami Islam dengan bahasa ringan dan modern. | Konten, Research, Writing |
-| **Snake Game** | Game ular klasik berbasis web sederhana. | HTML, CSS, JavaScript |
-
-> 💡 *Masih terus belajar dan mengembangkan proyek baru di bidang web dan digital content.*
-
----
-
-## 🏅 Sertifikat  
-
-- **Belajar Dasar HTML & CSS** – Dicoding Indonesia  
-- **Pengantar Pemrograman Python** – Sololearn  
-- **Digital Marketing Dasar** – Google Digital Garage  
-
----
-
 ## 📊 Statistik GitHub  
 
 ![Virgi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Virgi6ix&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgi6ix&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgi6ix&layout=compact&theme=tokyonight)
 
 ---
-
-
 
 ---
 
@@ -60,7 +46,6 @@ Saya percaya setiap baris kode bisa membawa perubahan kecil menuju masa depan ya
 
 | Platform | Tautan |
 |-----------|--------|
-| 💼 LinkedIn | [linkedin.com/in/virgi-alpiansyah](https://linkedin.com) |
 | 📷 Instagram | [@alvianssy](https://www.instagram.com/alvianssy) |
 | 📧 Email | virgialpiansyah@gmail.com |
 
