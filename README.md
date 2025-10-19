@@ -52,9 +52,7 @@ Saya percaya setiap baris kode bisa membawa perubahan kecil menuju masa depan ya
 
 ---
 
-## 🐍 Aktivitas GitHub  
 
-![GitHub Snake Animation](https://github.com/Virgi6ix/Virgi6ix/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
