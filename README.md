@@ -90,7 +90,7 @@ Saya selalu terbuka untuk belajar bareng, kolaborasi proyek, atau sekadar ngobro
 
 | Platform | Tautan |
 |-----------|--------|
-| **Instagram** | [@virgi6ix](https://instagram.com/virgi6ix) |
+| Instagram | [@alvianssy](https://www.instagram.com/alvianssy) |
 | **Email** | [virgialpiansyah20@gmail.com](mailto:virgialpiansyah20@gmail.com) |
 
 ---
